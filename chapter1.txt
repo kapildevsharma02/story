@@ -1,2 +1,1 @@
-This is a story.
-This is a great story.
+It is the chapter 1 of the main directory and i am learning the skill of the github.
